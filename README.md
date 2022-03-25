@@ -12,4 +12,4 @@ Advanced part:
     2.1 Implement feature that allows users to create new account, profile will be shown with data respected to each account.
     2.2 Implement password hashing, logout and password change features
     2.3 Allow users to update profile picture (new user will have a default profile picture)
-    2.4 Allow users to update profile information
+    
